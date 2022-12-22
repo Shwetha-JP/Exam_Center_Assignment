@@ -1,0 +1,5 @@
+EX001:MH-CET:Wadia College of Engineering:1, Jogpath, Pune-411001
+EX002:UPSC:MBA-Center, SRM University:Potheri,chennai-600036
+EX003:CAT:S P College:Tilak Road, Pune-411002
+EX004:JEE:Indian Institute of Technology-Madras:Chennai-600036
+EX005:GATE:Indian Institute of Technology- Hyderabad:kandi-502285
